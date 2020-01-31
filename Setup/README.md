@@ -1,8 +1,10 @@
-# Ejercicio de MARKDOWN
+
+ # Ejercicio de MARKDOWN
+
 
 ## Instalación de dotnet core 2.2.
 Lo primero que tenemos que hacer es el link 
-[Lugar](https://dotnet.microsoft.com/download)
+[lugar](https://dotnet.microsoft.com/download)
 Es importante bajar SDK, porque **Vamos a programar**
 
 
