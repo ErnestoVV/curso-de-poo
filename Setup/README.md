@@ -8,9 +8,13 @@ Lo primero que tenemos que hacer es descargar .core del link
 Es importante bajar SDK, porque **Vamos a programar**
 
 
-[sadsa](./imo.(captura de core))
+[sadsa] i(./imo.(captura de core))
 
 
 ## Instalación y configuración de Visual Studio Code para C#.
+Instalar el visual Studio del link 
+[lugar](https://code.visualstudio.com/)
+Despues de instalarlo configurarlo par empezar a usarlo
 
-#Instalación de git. conectado a tu cuenta de GitHub y VSC.
+## Instalación de git. conectado a tu cuenta de GitHub y VSC.
+Para clonar el repositorio y empezar a usar visual studio con github es necesario descargar GIT ya conectado a la cuenta ya podemos empezar a usarlo.
