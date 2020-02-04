@@ -8,7 +8,7 @@ Lo primero que tenemos que hacer es descargar .core del link
 Es importante bajar SDK, porque **Vamos a programar**
 
 
-[sadsa] i(./imo.(captura de core))
+[sadsa] i(./imo.(https://github.com/ErnestoVazquez94/curso-de-poo/blob/master/Setup/imagen/captura%20de%20core.png))
 
 
 ## Instalación y configuración de Visual Studio Code para C#.
