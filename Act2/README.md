@@ -1,1 +1,3 @@
-# Ejercicio Programa Basico de Peliculas
+# Actividad 2
+
+# Programa basico peliculas
