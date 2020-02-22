@@ -1,3 +1,6 @@
+# Profesor estuve intentando subir el archivo Program.cs y no encontraba forma asi que termine por subirlo asi para entregarlo a tiempo seguire practicando en eso, el archivo program.cs se encuentra en repositorio curso poo/Act2/Pelicula :)
+
+
 using System;
 using System.Collections.Generic;
 
