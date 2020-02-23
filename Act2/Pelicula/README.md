@@ -7,6 +7,7 @@ using System.Collections.Generic;
 namespace Pelicula
 {
     public class Pelicula
+    
         {
             public string Titulo, Pais, Director;
             public int Año;
