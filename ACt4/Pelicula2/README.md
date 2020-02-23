@@ -1,8 +1,5 @@
 # Lista de Peliculas
 
-using System;
-using System.Collections.Generic;
-
 namespace Pelicula2
 {
     class Pelicula2
