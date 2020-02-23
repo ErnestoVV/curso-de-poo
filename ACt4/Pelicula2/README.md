@@ -1,8 +1,6 @@
 # Lista de Peliculas
 
-namespace Pelicula2
-{
-    class Pelicula2
+class Pelicula2
     {
         private string Titulo;
         public Pelicula2(string T)
@@ -31,4 +29,3 @@ namespace Pelicula2
             }
         }
     }
-}
