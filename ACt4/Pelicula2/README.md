@@ -1,4 +1,4 @@
-# Lista de Peliculas
+# Profe este peor a los anteriores no se porque me pasa esto pero si revisa en la carpeta de ACt2/Pelicula2 esta el archivo program.cs y sale bien :/
 
 class Pelicula2
     {
