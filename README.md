@@ -12,4 +12,4 @@
 
 # [Actividad 6](./Act6/Imagen/) # Ejercicio Uml
 
-# [Actividad 7] # En proceso :v
+# [Actividad 7] # Ejercicio de parametros En proceso :v
