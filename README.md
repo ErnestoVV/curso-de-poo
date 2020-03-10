@@ -11,3 +11,5 @@
 # [Actividad 5](./Act5/Actores/Program.cs) # Lista de actores
 
 # [Actividad 6](./Act6/Imagen/) # Ejercicio Uml
+
+# [Actividad 7] # En proceso :v
